@@ -1,0 +1,94 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "nama": "Original Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.pexels.com/id-id/foto/kopi-chemex-di-atas-meja-dekat-batang-tanaman-dalam-toples-4916533/",
+            "foto": "https://images.pexels.com/photos/4916533/pexels-photo-4916533.jpeg"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "nama": "Original Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.pexels.com/id-id/pencarian/robusta/",
+            "foto": "https://media.istockphoto.com/id/951927322/id/foto/konsep-minuman-kopi-tradisional-turki.jpg?s=1024x1024&w=is&k=20&c=y9OKBtvT-WNhqmX3Fdcbzbg5ss3XppXo69dizHrDl2c="
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://images.tokopedia.net/img/cache/900/product-1/2020/6/2/16453346/16453346_8fdcab33-8fae-4473-9695-5d5fe1817c1a_1080_1080",
+            "nama": "Es Campur Kenangan",
+            "size": "1 mangkuk",
+            "harga": "32.000",
+            "link": "https://images.tokopedia.net/img/cache/900/product-1/2020/6/2/16453346/16453346_8fdcab33-8fae-4473-9695-5d5fe1817c1a_1080_1080"
+        },
+        {
+            "nama": "Sop Buah",
+            "size": "1 Mangkuk",
+            "harga": "30.000",
+            "link": "https://www.liputan6.com/hot/read/5294260/6-resep-menu-buka-puasa-yang-segar-dan-sehat-dapat-menghilangkan-dahaga",
+            "foto": "https://cdn1-production-images-kly.akamaized.net/F37wNvgbJiN2t219bOD5I_RyQ1I=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3095387/original/046440500_1586185811-ES_BUAH_SEGAR_SPESIAL___Hobi_Makan.jpg"
+        },
+        {
+            "nama": "Jus Buah Naga Gabut",
+            "size": "350 ml",
+            "harga": "25.000",
+            "link": "https://images.pexels.com/photos/4443496/pexels-photo-4443496.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "foto": "https://images.pexels.com/photos/4443496/pexels-photo-4443496.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }
+    ],
+    "cemilan pas untuk ngopi": [
+        {
+            "nama": "Butter Croissant",
+            "size": "1 pcs",
+            "harga": "17.000",
+            "link": "https://images.pexels.com/photos/8105060/pexels-photo-8105060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "foto": "https://images.pexels.com/photos/8105060/pexels-photo-8105060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "nama": "Roti Bakar cuy",
+            "size": "1 pcs",
+            "harga": "15.000",
+            "link": "https://images.pexels.com/photos/209206/pexels-photo-209206.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "foto": "https://images.pexels.com/photos/209206/pexels-photo-209206.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "nama": "Brownies Coklat Sedap Mantul",
+            "size": "1 Porsi",
+            "harga": "20.000",
+            "link": "https://images.pexels.com/photos/683499/pexels-photo-683499.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "foto": "https://images.pexels.com/photos/683499/pexels-photo-683499.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }
+    ]
+}
