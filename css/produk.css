@@ -1,5 +1,11 @@
 @import url(../vendor/bootstrap/bootstrap-icons.css);
 
+@font-face {
+    src: url(../fonts/poppins.woff2);
+    font-family: 'Poppins';
+
+}
+
 body {
     font-family: 'Poppins';
 }
@@ -34,4 +40,5 @@ section.produk {
 .bi-whatsapp::before {
     font-weight: bold !important;
 }
+
 /* Tambahan css produk tulis setelah kode ini */
